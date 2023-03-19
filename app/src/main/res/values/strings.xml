@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WordApp</string>
+    <string name="editText_main" />
+    <string name="button_main" />
+</resources>
